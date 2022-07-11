@@ -4,7 +4,7 @@
     "client": "discord",
     "client_args": {
         "bearer_token": "",
-        "priority_channel": [930561058144411649,960729581348868177],
+        "priority_channel": [996061763499991110,960729581348868177],
         "conditional_response": false,
         "idle_messaging": false,
         "idle_messaging_interval": null,
@@ -18,7 +18,7 @@
             "text": "for youkai. 👹"
         },
         "context_size": 924,
-        "logging_channel": 930509559460663346
+        "logging_channel": 996042425011281920
     },
     "memory_store": {
         "database_type": "postgresql",
